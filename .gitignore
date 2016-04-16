@@ -1,0 +1,4 @@
+# Git Content Tracking Ignore Rules
+## Automatically Generated Game Screenshots
+*.png
+
