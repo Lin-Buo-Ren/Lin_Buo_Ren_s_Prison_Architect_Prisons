@@ -10155,7 +10155,7 @@ BEGIN Research
     BEGIN pis        Desired false  Progress 0.000000  END
 END
 BEGIN Construction 
-    AutoLights           true  
+    AutoLights           false  
     BEGIN Jobs       Size 0  END
     BEGIN PlanningJobs Size 8000  END
     BEGIN BlockedAreas END
