@@ -10,11 +10,11 @@
 * All facilities squashed into game-default-map, including maximum sized forestry
 * 60 cells with independent showers
 * Fire(Lighter)-resistant design
-　　* Free showers(just play the prison and you know what I mean ;))
-　　* Duplicated Power/Water/Heated Water Grid
-　　* Splinkers everywhere!
-　　* We all LOVE power stations but you're not gonna make it(?
-　　* Splinkers protected door servos
+	- Free showers(just play the prison and you know what I mean ;))
+	- Duplicated Power/Water/Heated Water Grid
+	- Splinkers everywhere!
+	- We all LOVE power stations but you're not gonna make it(?
+	- Splinkers protected door servos
 
 ## (Optional) Mod Dependencies ##
 * Snitch Sorter - Should *slightly* increase protective costodies' lifespan, however the map is too small to fully separate them :-(
